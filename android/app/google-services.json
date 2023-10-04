@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665464398406",
+    "project_id": "boodget-69ad5",
+    "storage_bucket": "boodget-69ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665464398406:android:b4238675146dbd43aae047",
+        "android_client_info": {
+          "package_name": "com.example.boodget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665464398406-0b18lh62s6s9blpke5bleu63n69ogpu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYBiTEN6IgeCfaMBPRcMUZ9yvTdpq81YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665464398406-0b18lh62s6s9blpke5bleu63n69ogpu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
